@@ -31,7 +31,7 @@
 				<tr><th>Returning Donor Sore:</th><th>8.87</th><th>88.68</th></tr>
 			</table>
 		</div>
-		<button class="btn">Expand</button>
+		
 		<!-- <h3><span class="label label-default">Returning Donor</span></h3>
 		<div class="panel panel-default">
 			<table class="table">
