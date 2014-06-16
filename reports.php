@@ -16,19 +16,28 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-md-7" id="report-1">
-      <h4><span class="glyphicon glyphicon-chevron-right"></span> Report 1</h4>
+    <div class="col-md-7"  id="report-1">
+      <h4><span class="glyphicon glyphicon-chevron-righ"></span> Report 1 
+      <button class="btn btn-sm btn-default" id="maximize-one"><span class="glyphicon glyphicon-resize-full"></span></button>
+      <button class="btn btn-sm btn-default" id="minimize-one"><span class="glyphicon glyphicon-resize-small"></span></button>
+      </h4>
       <?php include "content/getReportOne.php"; ?>
     </div>
     <div class="col-md-5"  id="report-2">
-    <h4><span class="glyphicon glyphicon-chevron-right"></span> Report 2</h4>
+    <h4><span class="glyphicon glyphicon-chevron-right"></span> Report 2
+    <button class="btn btn-sm btn-default" id="maximize-two"><span class="glyphicon glyphicon-resize-full"></span></button>
+    <button class="btn btn-sm btn-default" id="minimize-two"><span class="glyphicon glyphicon-resize-small"></span></button>
+    </h4>
       <?php include "content/getReportTwo.php"; ?>
     </div>
   </div>
 
   <div class="row">
     <div class="col-md-12" id="report-3">
-       <h4><span class="glyphicon glyphicon-chevron-right"></span> Report 3</h4>
+       <h4><span class="glyphicon glyphicon-chevron-right"></span> Report 3
+       <button class="btn btn-sm btn-default" id="maximize-three"><span class="glyphicon glyphicon-resize-full"></span></button>
+       <button class="btn btn-sm btn-default" id="minimize-three"><span class="glyphicon glyphicon-resize-small"></span></button>
+       </h4>
         <?php include "content/getReportThree.php"; ?>
       </div>
     </div>

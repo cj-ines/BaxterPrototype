@@ -1,5 +1,5 @@
 
-<div class="panel panel-primary bio-panel">
+<div class="panel panel-primary bio-panel" id = "report-2s">
 	<div class="panel-heading bio-title">
 		Biolife New and Returning Donor Corporate Comparison Report
 	</div>
@@ -20,6 +20,9 @@
 		</table>
 		</div>
 
+	</div>
+	<div class="panel-footer">
+		<button class="btn btn-default"><span class="glyphicon glyphicon-download"></span> Export</button>
 	</div>
 </div>
 

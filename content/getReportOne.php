@@ -1,7 +1,9 @@
-<div class="panel panel-primary bio-panel" style="overflow:overflow">
+<div class="panel panel-primary bio-panel" style="overflow:overflow" id = "report-1s">
 	<div class="panel-heading bio-title">
 		<div class="row">
-			<div class="col-md-8">BioLife Plasma Services - Donor Survey</div>
+			<div class="col-md-8">
+			
+			BioLife Plasma Services - Donor Survey</div>
 			<div class="col-md-4">
 				<select class="form-control">
 					<option>Corporate</option>
@@ -43,5 +45,8 @@
 				<tr><th>New Donor Sore:</th><th>8.87</th><th>88.68</th></tr>
 			</table>
 		</div> -->
+	</div>
+	<div class="panel-footer">
+		<button class="btn btn-default"><span class="glyphicon glyphicon-download"></span> Export</button>
 	</div>
 </div>
