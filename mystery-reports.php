@@ -16,35 +16,39 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-md-7"  id="report-1">
+    <div class="col-md-8"  id="report-1">
       <h5>
         <button class="btn btn-sm" id="maximize-one"><span class="glyphicon glyphicon-resize-full"></span></button>
         <button class="btn btn-sm" id="minimize-one"><span class="glyphicon glyphicon-resize-small"></span></button>
         Report 1 
       </h5>
-      <?php include "content/donor/getReportOne.php"; ?>
+      <?php include "content/mystery/getReportOne.php"; ?>
     </div>
-    <div class="col-md-5"  id="report-2">
+    <div class="col-md-4"  id="report-3">
       <h5>
-        <button class="btn btn-sm" id="maximize-two"><span class="glyphicon glyphicon-resize-full"></span></button>
-        <button class="btn btn-sm" id="minimize-two"><span class="glyphicon glyphicon-resize-small"></span></button>
+        <button class="btn btn-sm" id="maximize-three"><span class="glyphicon glyphicon-resize-full"></span></button>
+        <button class="btn btn-sm" id="minimize-three"><span class="glyphicon glyphicon-resize-small"></span></button>
         Report 2
       </h5>
-      <?php include "content/donor/getReportTwo.php"; ?>
+      <?php include "content/mystery/getReportThree.php"; ?>
     </div>
   </div>
 
   <div class="row">
-    <div class="col-md-12" id="report-3">
+   
+  </div>
+
+  <div class="row">
+    <div class="col-md-12" id="report-4">
        <h5>
-        <button class="btn btn-sm" id="maximize-three"><span class="glyphicon glyphicon-resize-full"></span></button>
-        <button class="btn btn-sm" id="minimize-three"><span class="glyphicon glyphicon-resize-small"></span></button>
+        <button class="btn btn-sm" id="maximize-four" name=2 ><span class="glyphicon glyphicon-resize-full"></span></button>
+        <button class="btn btn-sm" id="minimize-four"><span class="glyphicon glyphicon-resize-small"></span></button>
         Report 3 
       </h5>
-        <?php include "content/donor/getReportThree.php"; ?>
+        <?php include "content/mystery/getReportFour.php"; ?>
       </div>
     </div>
   </div>
 </div> <!-- /container -->
-<script src="js/donor-report.js"></script>
+<script src="js/mystery-report.js"></script>
  <?php include "doc_bot.php" ?>

@@ -17,16 +17,8 @@
 	<div class="panel panel-body">
 		<div class="panel panel-default">
 		<table class="table">
-			<tr><th></th><th>10-Dec</th><th>10-Apr</th><th>12-Apr</th><th>12-Octr</th><th>12-Apr</th></tr>
-			<tr><th>Center</th><td>Overall Score</td><td>Overall Score</td><td>Overall Score</td><td>Overall Score</td><td>Overall Score</td></tr>
-			<tr><td>CLARKSBURG</td><td><span class="badge">92.97</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td></tr>
-			<tr><td>BROKEN ARROW</td><td><span class="badge">92.97</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td></tr>
-			<tr><td>MENTOR</td><td><span class="badge">92.97</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td></tr>
-			<tr><td>KOKOMO</td><td><span class="badge">92.97</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td></tr>
-			<tr><td>DEKALB</td><td><span class="badge">92.97</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td></tr>
-			<tr><td>DENTON</td><td><span class="badge">92.97</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td></tr>
-			<tr><td>LIMA</td><td><span class="badge">92.97</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td></tr>
-			<tr><td>LARAMIE</td><td><span class="badge">92.97</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td><td><span class="badge">91.93</span></td><td><span class="badge">94.12</span></td></tr>
+			<tr><th>Center</th><th>Mystery Score</th><th>Center</th><th>Mystery Score</th><th>Center</th><th>Mystery Score</th></tr>
+			<tr><td>OSHKISH</td><td>8.88</td><td>JANESVILLE</td><td>86.72</td><td>MIDDLETOWN</td><td>8.88</td></tr>
 		</table>
 		</div>
 	</div>
